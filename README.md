@@ -2,8 +2,8 @@
 
 Collection of hooks
 
-- [useFocus](##useFocus)
-- [useFocusOnMount](##useFocusOnMount)
+- [useFocus](#user-content-usefocus)
+- [useFocusOnMount](#user-content-usefocusonmount)
 
 ## useFocus
 
