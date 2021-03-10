@@ -1,3 +1,3 @@
-import { useFocusOnMount } from "./lib";
+import { useFocus, useFocusOnMount } from "./lib";
 
-export { useFocusOnMount };
+export { useFocus, useFocusOnMount };
